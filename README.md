@@ -1,5 +1,5 @@
 # DACH-SASUserGroups
-Collection of contributions to SAS User Groups like KSFE, SAS Club, SFD, ...
+Collection of contributions to SAS User Groups such as KSFE, SAS Club, SFD, ...
 
 KSFE: https://github.com/gerhard1050/DACH-SASUserGroups/tree/KSFE
 
