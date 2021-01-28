@@ -11,10 +11,11 @@ SAS Communites at support.sas.com https://communities.sas.com/
 SAS Global Forum Proceedings (SAS Papers mit SAS Code und Content) http://support.sas.com/events/sasglobalforum/previous/online.html
 
 Blogs von SAS:
-Do-Loop Blog (Analytics, Matrix und Statistical SAS Programming) von Rick Wicklin: http://blogs.sas.com/content/iml/
-Graphically Speaking (SAS Graphiken): https://blogs.sas.com/content/graphicallyspeaking/
-The SAS Dummy (Tipps/Tricks): https://blogs.sas.com/content/sasdummy/
-SAS Learning Post (SAS Training, Tipps&Tricks): https://blogs.sas.com/content/sastraining/
+* Do-Loop Blog (Analytics, Matrix und Statistical SAS Programming) von Rick Wicklin: http://blogs.sas.com/content/iml/
+* Graphically Speaking (SAS Graphiken): https://blogs.sas.com/content/graphicallyspeaking/
+* The SAS Dummy (Tipps/Tricks): https://blogs.sas.com/content/sasdummy/
+* SAS Learning Post (SAS Training, Tipps&Tricks): https://blogs.sas.com/content/sastraining/
+
 Operations Research: https://blogs.sas.com/content/operations/
 SAS Blog Directory: https://blogs.sas.com/content/blog-directory/
 SAS Bookstore - SAS Press (Download Sample Chaptes + SAS Code) http://support.sas.com/publishing/
