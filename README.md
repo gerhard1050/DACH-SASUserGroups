@@ -7,7 +7,9 @@ SAS Club: https://github.com/gerhard1050/DACH-SASUserGroups/tree/SAS-Club
 
 
 SAS Communites at support.sas.com https://communities.sas.com/
+
 SAS Global Forum Proceedings (SAS Papers mit SAS Code und Content) http://support.sas.com/events/sasglobalforum/previous/online.html
+
 Blogs von SAS:
 Do-Loop Blog (Analytics, Matrix und Statistical SAS Programming) von Rick Wicklin: http://blogs.sas.com/content/iml/
 Graphically Speaking (SAS Graphiken): https://blogs.sas.com/content/graphicallyspeaking/
