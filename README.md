@@ -3,13 +3,11 @@ Collection of contributions to SAS User Groups such as KSFE, SAS Club, SFD, ...
 
 Links aus dem SAS Club 2021
 
-Ask-the-expert Session (international): https://communities.sas.com/t5/Ask-the-Expert/tkb-p/askexpert![image](https://user-images.githubusercontent.com/35135511/143574207-a7a3819f-c52c-4ced-8fc9-cacf3afebb79.png)
+Ask-the-expert Session (international): https://communities.sas.com/t5/Ask-the-Expert/tkb-p/askexpert
 
 Ask-the-expert Sessions (Deutsch): https://www.sas.com/de_de/learn/ask-the-expert-webinars.html 
-![image](https://user-images.githubusercontent.com/35135511/143574257-a3c6efb1-3de0-4284-b041-ec3e3fcc8958.png)
 
 Artikel Sammlung auf SAS Communities von Gerhard Svolba: https://communities.sas.com/t5/SAS-Communities-Library/Data-Science-and-Data-Preparation-Article-Overview-by-Gerhard/ta-p/727875
-![image](https://user-images.githubusercontent.com/35135511/143574381-eb71d6c2-dd89-4f86-9d96-4956abd8a40d.png)
 
 Youtube Playlists:
 * SAS Club Playlist <wird bis 3. Dezember ergänzt>
