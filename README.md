@@ -3,11 +3,7 @@ Collection of contributions to SAS User Groups such as KSFE, SAS Club, SFD, ...
 
 Links aus dem SAS Club 2021
 
-Ask-the-expert Session (international): https://communities.sas.com/t5/Ask-the-Expert/tkb-p/askexpert
-
-Ask-the-expert Sessions (Deutsch): https://www.sas.com/de_de/learn/ask-the-expert-webinars.html 
-
-Artikel Sammlung auf SAS Communities von Gerhard Svolba: https://communities.sas.com/t5/SAS-Communities-Library/Data-Science-and-Data-Preparation-Article-Overview-by-Gerhard/ta-p/727875
+SAS Club (Slide Download): https://github.com/gerhard1050/DACH-SASUserGroups/tree/SAS-Club
 
 Youtube Playlists:
 * SAS Club Playlist <wird bis 3. Dezember ergänzt>
@@ -15,10 +11,13 @@ Youtube Playlists:
 * Data Science Case Studies: https://www.youtube.com/playlist?list=PLdMxv2SumIKs0A2cQLeXg1xb9OVE8e2Yq
 * SAS Forum Digital 2021: https://www.youtube.com/watch?v=M1mIczR7KWI&list=PLdMxv2SumIKusTslCWoSJt06MoZyWazEU&index=3
 
+Ask-the-expert Session (international): https://communities.sas.com/t5/Ask-the-Expert/tkb-p/askexpert
+
+Ask-the-expert Sessions (Deutsch): https://www.sas.com/de_de/learn/ask-the-expert-webinars.html 
+
+Artikel Sammlung auf SAS Communities von Gerhard Svolba: https://communities.sas.com/t5/SAS-Communities-Library/Data-Science-and-Data-Preparation-Article-Overview-by-Gerhard/ta-p/727875
+
 KSFE: https://github.com/gerhard1050/DACH-SASUserGroups/tree/KSFE
-
-SAS Club: https://github.com/gerhard1050/DACH-SASUserGroups/tree/SAS-Club
-
 
 SAS Communites at support.sas.com https://communities.sas.com/
 
