@@ -3,7 +3,7 @@ Collection of contributions to SAS User Groups such as KSFE, SAS Club, SFD, ...
 
 Links aus dem SAS Club 2021
 
-SAS Club (Slide Download): https://github.com/gerhard1050/DACH-SASUserGroups/tree/SAS-Club
+SAS Club (Slide Download): https://github.com/gerhard1050/DACH-SASUserGroups/tree/SAS-Club (search for SASClub2021)
 
 Youtube Playlists:
 * SAS Club Playlist <wird bis 3. Dezember ergänzt>
