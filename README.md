@@ -6,7 +6,7 @@ Links aus dem SAS Club 2021
 SAS Club (Slide Download): https://github.com/gerhard1050/DACH-SASUserGroups/tree/SAS-Club (search for SASClub2021)
 
 Youtube Playlists:
-* SAS Club Playlist <wird bis 3. Dezember ergänzt>
+* SAS Club Playlist https://www.youtube.com/playlist?list=PLdMxv2SumIKtaJC2lQT7wjmpMe64bZKwG
 * Data Preparation for Data Science: https://www.youtube.com/playlist?list=PLdMxv2SumIKsqedLBq0t_a2_6d7jZ6Akq
 * Data Science Case Studies: https://www.youtube.com/playlist?list=PLdMxv2SumIKs0A2cQLeXg1xb9OVE8e2Yq
 * SAS Forum Digital 2021: https://www.youtube.com/watch?v=M1mIczR7KWI&list=PLdMxv2SumIKusTslCWoSJt06MoZyWazEU&index=3
